@@ -8,7 +8,5 @@ const counter = {
 };
 
 
-hhh
-
 counter.increment();
 console.log(counter.count);
