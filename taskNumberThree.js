@@ -2,10 +2,11 @@ const counter = {
   count: 5,
   step: 10,
 
-   function increment(){
+   increment: function(){
     counter.count += counter.step;
   }
 };
+
 
 
 counter.increment();
