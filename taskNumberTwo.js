@@ -1,10 +1,10 @@
 
 
-function properties(cars) {
+function properties(obj) {
 
-    for (key in cars) {
+    for (let key in obj) {
 
-        console.log(`${key}: ${cars[key]}`);
+        console.log(`${key}: ${obj[key]}`);
 
     }
 }

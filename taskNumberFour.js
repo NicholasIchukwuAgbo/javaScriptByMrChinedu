@@ -3,8 +3,8 @@ const person = {
 		lastName: "Ichukwu"
 	}
 
-function fullName(person){
-console.log(`${person.firstName} ${person.lastName}`)
+function fullName(obj){
+console.log(`${obj.firstName} ${obj.lastName}`)
 }
 
 

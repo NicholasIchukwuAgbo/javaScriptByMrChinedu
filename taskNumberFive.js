@@ -4,8 +4,8 @@ const person = {
 	      age: 12
 	      };
 
-function myDetails(perosn){
-console.log(`first Name: ${person.firstName}, last Name: ${person.lastName}, age: ${person.age}`)
+function myDetails(obj){
+console.log(`first Name: ${obj.firstName}, last Name: ${obj.lastName}, age: ${obj.age}`)
 }
 
 myDetails(person)
