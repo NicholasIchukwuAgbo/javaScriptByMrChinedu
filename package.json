@@ -1,0 +1,23 @@
+{
+  "name": "javascripttaskfile",
+  "version": "1.0.0",
+  "main": "functionAsAReturnArguement2.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NicholasIchukwuAgbo/javaScriptByMrChinedu.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NicholasIchukwuAgbo/javaScriptByMrChinedu/issues"
+  },
+  "homepage": "https://github.com/NicholasIchukwuAgbo/javaScriptByMrChinedu#readme",
+  "description": "",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
